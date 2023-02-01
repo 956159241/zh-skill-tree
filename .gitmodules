@@ -1,6 +1,6 @@
 [submodule "graphical-front-end"]
 	path = graphical-front-end
 	url = https://github.com/956159241/graphical-front-end.git
-[submodule "code/zh-admin-vue"]
-	path = code/zh-admin-vue
+[submodule "code/web/zh-admin-vue"]
+	path = code/web/zh-admin-vue
 	url = https://github.com/956159241/zh-admin-vue.git
