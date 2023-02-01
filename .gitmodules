@@ -4,3 +4,6 @@
 [submodule "code/web/zh-admin-vue"]
 	path = code/web/zh-admin-vue
 	url = https://github.com/956159241/zh-admin-vue.git
+[submodule "code/web/zh-admin-react"]
+	path = code/web/zh-admin-react
+	url = https://github.com/956159241/zh-admin-react.git
