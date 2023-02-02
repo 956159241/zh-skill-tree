@@ -7,3 +7,6 @@
 [submodule "code/web/zh-admin-react"]
 	path = code/web/zh-admin-react
 	url = https://github.com/956159241/zh-admin-react.git
+[submodule "code/web/origin-examples"]
+	path = code/web/origin-examples
+	url = https://github.com/956159241/origin-examples.git
