@@ -16,3 +16,6 @@
 [submodule "code/desktop/electron-vue3-examples"]
 	path = code/desktop/electron-vue3-examples
 	url = https://github.com/956159241/electron-vue3-examples.git
+[submodule "code/project/myblog"]
+	path = code/project/myblog
+	url = https://github.com/956159241/myblog.git

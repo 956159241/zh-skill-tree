@@ -22,6 +22,7 @@ git submodule add https://github.com/956159241/electron-vue3-examples.git electr
 #### service
 
 #### project(工程项目)
+git submodule add https://github.com/956159241/myblog.git myblog
 
 #### other(其他程序)
 
