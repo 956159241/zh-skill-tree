@@ -17,6 +17,16 @@ git submodule add https://github.com/956159241/origin-examples.git origin-exampl
 #### desktop
 git submodule add https://github.com/956159241/electron-vue3-examples.git electron-vue3-examples
 
+#### mobile
+
+#### service
+
+#### project(工程项目)
+
+#### other(其他程序)
+
+
+
 
 
 
