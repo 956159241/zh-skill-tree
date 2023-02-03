@@ -13,3 +13,6 @@
 [submodule "code/web/zh-front-end-code-generation-tool"]
 	path = code/web/zh-front-end-code-generation-tool
 	url = https://github.com/956159241/zh-front-end-code-generation-tool.git
+[submodule "code/desktop/electron-vue3-examples"]
+	path = code/desktop/electron-vue3-examples
+	url = https://github.com/956159241/electron-vue3-examples.git
