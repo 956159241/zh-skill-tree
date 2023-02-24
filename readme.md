@@ -19,12 +19,13 @@ git submodule add https://github.com/956159241/electron-vue3-examples.git electr
 
 #### mobile
 
-#### service
+#### servic
 
 #### project(工程项目)
 git submodule add https://github.com/956159241/myblog.git myblog
 
 #### other(其他程序)
+git submodule add https://github.com/956159241/zh-command-line-tools.git zh-command-line-tools
 
 
 
