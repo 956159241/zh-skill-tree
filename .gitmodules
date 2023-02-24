@@ -19,3 +19,6 @@
 [submodule "code/project/myblog"]
 	path = code/project/myblog
 	url = https://github.com/956159241/myblog.git
+[submodule "code/other/zh-command-line-tools"]
+	path = code/other/zh-command-line-tools
+	url = https://github.com/956159241/zh-command-line-tools.git
