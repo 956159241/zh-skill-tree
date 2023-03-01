@@ -22,3 +22,6 @@
 [submodule "code/other/zh-command-line-tools"]
 	path = code/other/zh-command-line-tools
 	url = https://github.com/956159241/zh-command-line-tools.git
+[submodule "graphical-dotnet"]
+	path = graphical-dotnet
+	url = https://github.com/956159241/graphical-dotnet.git
