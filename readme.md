@@ -10,7 +10,8 @@
 #### 【zh-command-line-tools】
 #### description: 自编工具集
 #### address: https://github.com/956159241/zh-command-line-tools.git
-* 【zhtml2pdf】html转换成pdf/png，支持url在线转换，功能参考wkhtmltopdf,由于该项目已无人维护，且对前端新功能支持不友好，故萌生出该项目的想法，核心插件：puppeteer。
+* 【zhtml2pdf】html转换成pdf/png，支持url在线转换，功能参考wkhtmltopdf,由于该项目已无人维护，且对前端新功能支持不友好，故萌生出该项目的想法，技术栈：.net6 + puppeteer + NLog。
+* 【host-fast-open】快速打开host文件脚本，技术栈：windows脚本
 
 ## video
 
