@@ -25,3 +25,6 @@
 [submodule "graphical-dotnet"]
 	path = graphical-dotnet
 	url = https://github.com/956159241/graphical-dotnet.git
+[submodule "graphical-computer-basics"]
+	path = graphical-computer-basics
+	url = https://github.com/956159241/graphical-computer-basics.git
